@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ankita Bhojwani 👋
 
-<!--
-**ankita-bhojwani/ankita-bhojwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year CSE student @ Cummins College  
+💻 Interested in Open Source, Web Development & AI  
+🌱 Currently learning Data Structures & Algorithms (DSA)  
+📫 Reach me: ankitabhojwani18@gmail.com 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming: Python, Java  
+- Web Development: HTML, CSS, JavaScript (beginner)  
+- Tools: Git, GitHub, VS Code  
+
+
+## 🌟 Fun Fact
+Always curious to learn new technologies and contribute to open-source projects!  
+
