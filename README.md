@@ -12,6 +12,6 @@
 - Tools: Git, GitHub, VS Code  
 
 
-## 🌟 Fun Fact
+## About Me
 Always curious to learn new technologies and contribute to open-source projects!  
 
