@@ -8,7 +8,7 @@
 
 ## Skills
 - Programming: Python, Java  
-- Web Development: HTML, CSS, JavaScript (beginner)  
+- Web Development: HTML, CSS, JavaScript  
 - Tools: Git, GitHub, VS Code  
 
 
