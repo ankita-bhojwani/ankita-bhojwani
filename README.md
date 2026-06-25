@@ -1,6 +1,6 @@
 # Hi, I'm Ankita Bhojwani 👋
 
-🎓 2nd-year CSE student @ Cummins College  
+🎓 3rd-year CSE student @ Cummins College  
 💻 Interested in Open Source, Web Development & AI  
 🌱 Currently learning Data Structures & Algorithms (DSA)  
 📫 Reach me: ankitabhojwani18@gmail.com 
